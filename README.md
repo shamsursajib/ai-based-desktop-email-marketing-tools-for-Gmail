@@ -1,4 +1,4 @@
-# PROMIXCO Email Marketing Tools
+# AI Based Email Marketing Tools
 ### Version 1.0.0
 
 ---
@@ -47,7 +47,7 @@ For each Gmail account:
 ## 📁 File Structure
 
 ```
-promixco/
+mainfolder/
 ├── main.py              ← entry point
 ├── RUN.bat              ← run without building
 ├── BUILD_EXE.bat        ← build Windows EXE
